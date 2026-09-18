@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AselsanSim/AselsanSim.vcxproj" Id="ed2e0e4f-8990-48a2-b192-e0f9d6e42a29" />
+  <Project Path="HarekatMerkezi/HarekatMerkezi.csproj" Id="4d394749-7ba0-464a-aac0-7aceefd1d220" />
+</Solution>
