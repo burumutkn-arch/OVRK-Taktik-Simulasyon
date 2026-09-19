@@ -22,6 +22,10 @@ namespace TacticalNetwork {
         uint8_t status;
         float aiConfidence;
         bool isLaserActive;
+
+        // FAZ-2 EKLENTİLERİ (Sensör Füzyonu)
+        float thermalSignature;  // Termal Isı İzi (Santigrat)
+        bool isDecoy;            // Hedef Sahte mi? (Şişme Maket)
     };
 #pragma pack(pop)
 }
